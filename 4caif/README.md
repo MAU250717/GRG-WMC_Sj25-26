@@ -1,6 +1,15 @@
-# WMC 3CAIF
+# WMC 4CAIF
 
-## PLF 7.5.2026
+## Timetable geplant
+
+- 28.5. Projektarbeit
+- 11.6. TBD
+- 18.6. Projektpräsentationen
+- 25.6. Projektpräsentationen
+
+### Deadline Projekt 15.6.2026
+
+### Hausübungen im Repo Bewertung Deadline 15.6.2026
 
 ## 2026-04-16_TODOAPP
 
