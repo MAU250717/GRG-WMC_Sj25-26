@@ -43,7 +43,7 @@ Die Vorteile im Überblick:
 
 ```typescript
 // Primitive Typen
-let name: string = "GRG";
+let name: string = "Wien";
 let alter: number = 17;
 let aktiv: boolean = true;
 
@@ -74,7 +74,7 @@ TypeScript ist **smart genug**, Typen automatisch abzuleiten. Man muss nicht imm
 ```typescript
 // TypeScript leitet den Typ automatisch ab
 let x = 42;           // TypeScript weiß: x ist number
-let name = "GRG";     // TypeScript weiß: name ist string
+let name = "Wien";     // TypeScript weiß: name ist string
 
 // Funktion mit Rückgabetyp-Inferenz
 function addiere(a: number, b: number) {
