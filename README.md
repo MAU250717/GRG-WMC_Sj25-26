@@ -32,22 +32,22 @@ Dieses Repository enthält sämtliche Materialien für das Fach **Web & Mobile C
 
 | Verzeichnis | Inhalt |
 |---|---|
-| `4aaif/`, `4akif/`, `4bkif/`, `4caif/` | Unterrichtsordner pro Klasse – datierte Einträge (`YYYY-MM-DD_thema`) mit Code, Hausübungen und Notizen |
-| `archiv/` | Archiv für Klassenordner vergangener Schuljahre |
-| `Unterlagen/` | Thematische Referenzmaterialien zu HTML, CSS, JS, HTTP, POSIX |
-| `Beispielprojekte/` | Demo-Projekte (Ticketautomat, Hono + Prisma + HTMX, Deno-Transpilation, Code-Gists) |
-| `Übungen/` | Aufgabenstellungen für Einzel- und Gruppenübungen |
-| `docs/` | Zentrale Dokumente (Skriptum, Lehrplan, Projektangaben) |
+| [`4aaif/`](./4aaif/), [`4akif/`](./4akif/), [`4bkif/`](./4bkif/), [`4caif/`](./4caif/) | Unterrichtsordner pro Klasse – datierte Einträge (`YYYY-MM-DD_thema`) mit Code, Hausübungen und Notizen |
+| [`archiv/`](./archiv/) | Archiv für Klassenordner vergangener Schuljahre |
+| [`Unterlagen/`](./Unterlagen/) | Thematische Referenzmaterialien zu HTML, CSS, JS, HTTP, POSIX |
+| [`Beispielprojekte/`](./Beispielprojekte/) | Demo-Projekte (Ticketautomat, Hono + Prisma + HTMX, Deno-Transpilation, Code-Gists) |
+| [`Übungen/`](./Übungen/) | Aufgabenstellungen für Einzel- und Gruppenübungen |
+| [`docs/`](./docs/) | Zentrale Dokumente (Skriptum, Lehrplan, Projektangaben) |
 
 ### Wichtige Dateien
 
 | Datei | Beschreibung |
 |---|---|
-| `PROJEKT.md` | Angabe zum WMC-Abschlussprojekt |
-| `BENOTUNG.md` | Bewertungsmodell (Portfolio, Stundenwiederholungen, Projekt) |
-| `PEER_REVIEW.md` | Vorlage für Peer-Feedback zu Website-Projekten |
-| `AGENTS.md` | Coding Guidelines für KI-Assistenten (Code-Style, Projektstruktur) |
-| `docs/` | Skriptum, Lehrplan, Projektangaben, Promise-Code |
+| [`PROJEKT.md`](./PROJEKT.md) | Angabe zum WMC-Abschlussprojekt |
+| [`BENOTUNG.md`](./BENOTUNG.md) | Bewertungsmodell (Portfolio, Stundenwiederholungen, Projekt) |
+| [`PEER_REVIEW.md`](./PEER_REVIEW.md) | Vorlage für Peer-Feedback zu Website-Projekten |
+| [`AGENTS.md`](./AGENTS.md) | Coding Guidelines für KI-Assistenten (Code-Style, Projektstruktur) |
+| [`docs/`](./docs/) | Skriptum, Lehrplan, Projektangaben, Promise-Code |
 
 > **Hinweis:** Dieses Repository ist öffentlich. Es enthält **keine** Test-Angaben.
 
