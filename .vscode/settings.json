@@ -1,15 +1,11 @@
 {
     "deno.enable": true,
     "deno.lint": true,
-    "deno.unstable": false,
+    "deno.unstable": [],
     "deno.suggest.imports.hosts": {
         "https://deno.land": true
     },
-    "javascript.suggest.enabled": false,
-    "typescript.suggest.enabled": false,
-    "typescript.tsserver.enable": false,
-    "eslint.enable": false,
-    "prettier.enable": false,
-    "tslint.enable": false,
-    "liveServer.settings.port": 5501
+    "files.exclude": {
+        "**/.git": false
+    }
 }
